@@ -1,0 +1,11 @@
+D:\IRGenerator\bin\Debug\net9.0\IRGenerator.deps.json
+D:\IRGenerator\bin\Debug\net9.0\IRGenerator.dll
+D:\IRGenerator\bin\Debug\net9.0\IRGenerator.pdb
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.AssemblyInfoInputs.cache
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.AssemblyInfo.cs
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.csproj.CoreCompileInputs.cache
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.dll
+D:\IRGenerator\obj\Debug\net9.0\refint\IRGenerator.dll
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.pdb
+D:\IRGenerator\obj\Debug\net9.0\ref\IRGenerator.dll
