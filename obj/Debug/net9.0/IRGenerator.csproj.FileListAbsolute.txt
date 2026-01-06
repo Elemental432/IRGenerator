@@ -9,3 +9,4 @@ D:\IRGenerator\obj\Debug\net9.0\IRGenerator.dll
 D:\IRGenerator\obj\Debug\net9.0\refint\IRGenerator.dll
 D:\IRGenerator\obj\Debug\net9.0\IRGenerator.pdb
 D:\IRGenerator\obj\Debug\net9.0\ref\IRGenerator.dll
+D:\IRGenerator\obj\Debug\net9.0\IRGenerator.sourcelink.json

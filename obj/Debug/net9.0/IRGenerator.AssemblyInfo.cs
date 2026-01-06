@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IRGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa78af7432c62a2cfa8d4d9cb00de12f9375cffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("IRGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IRGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

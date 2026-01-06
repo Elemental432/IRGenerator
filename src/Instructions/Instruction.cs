@@ -8,17 +8,13 @@ public abstract class Instruction {
 
 public sealed class ReturnInstruction : Instruction {
 	public override Opcode Op { get; protected set; } = Opcode.Ret;
-	public readonly ValueRef ValueRef;
+	public readonly BaseValueRef ValueRef;
 	
-	public ReturnInstruction(ValueRef valueRef) {
+	public ReturnInstruction(BaseValueRef valueRef) {
 		ValueRef = valueRef;
 	}
 	
 	public override IEnumerable<string> Emit() {
 		yield return $"{Op.ToString().ToLower()} {ValueRef}";
 	}
-}
-
-public enum Opcode {
-	Ret,
 }
